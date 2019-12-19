@@ -1,6 +1,6 @@
-title: Joyce Medina - Blog
+title: Kevin V.
 author: Joyce Medina
-email: joiscemedina@gmail.com
+email: kevinvelez482@gmail.com 
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -12,19 +12,19 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Joyce Medina
-  tagline: Estudiante de Software
+  name: Kevin V.
+  tagline: Estudiante de la UG
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: Jonms28
-    github:  JoyceMedina
+    twitter: kevinvelez575
+    github:  kevinbmx575
     # linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
-    facebook: JoycemedinaS
+    facebook: kevin.velez.714049
     # flickr:   jekyll
     instagram: jnms.ns
     # linkedin: jekyll
