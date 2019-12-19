@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+{%- if page.title -%}
+<h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%}
+
+{{ content }}
+
+{%- if site.posts.size > 0 -%}
+<ul class="posts">
+  <li>
+    <h1 id="posts-label">Inicio</h1>
+  </li>
+<li><a class="post-link" href="#">
+      <h2 class="post-title">Bienvenidos a mi Blog</h2>
+    </a>
+    
+    <div class="post"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>
+
+</div>
+  </li>
+  
+<div class="badges" style="background-position-x: center;">
+            <a class="badge-link" href="#"><img src="https://www.ecuavisa.com/sites/default/files/fotos/2018/11/15/dpn5drew0aas-ss.jpg" alt="" style="border: solid;"></a>
+            
+          </div>
+
+{%- endif -%}
