@@ -2,7 +2,7 @@
 layout: post
 title:  "Procesos del Software - Modelos "
 date:   2019-12-02 21:13:50 +0530
-categories: Clases IntroduccionAlSoftware
+categories: Unidad 1 Software
 ---
 
 <h2>Modelo Cascada</h2>
